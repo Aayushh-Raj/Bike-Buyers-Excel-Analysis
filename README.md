@@ -1,2 +1,2 @@
 # Bike-Buyers-Excel-Analysis
-Creating a dashboard to show the analysis on Bike Buyer dataset
+Creating pivot tables and dashboard to show the analysis on Bike Buyer dataset.
